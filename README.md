@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @hmazomba
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning how to develop REST APIs with Django
-- 💞️ I’m looking to collaborate on game dev work
-- 📫 How to reach me: 
-- Email: hmazomba@live.co.za
+👋 Hi, I’m @hmazomba. I’m still interested in game development but not as much any more. I'm a little busy these days, so I'll be using my AI tools a lot to try out new things I've never done before in software. I want to have a look at RUST and maybe go back to C++. If you're looking for advice or looking to collaborate on some kickass Python projects. Don't hesitate. How to reach me: hmazomba@live.co.za
 
